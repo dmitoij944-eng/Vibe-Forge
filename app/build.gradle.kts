@@ -85,6 +85,7 @@ dependencies {
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.lifecycle.viewmodel.compose)
+implementation("com.google.android.material:material:1.12.0")
 
     // Compose
     implementation(libs.compose.bom)
